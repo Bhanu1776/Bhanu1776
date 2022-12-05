@@ -14,6 +14,7 @@ I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers I
 - 🌱 I’m currently learning Flutter 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
 <br>
+<br>
 
 ```Python
 Bhanu1776 
@@ -29,7 +30,7 @@ Country:    India 🇮🇳
 ```
 
 </p>
-<br>
+
 <!-- Github stats -->
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Bhanu1776&show_icons=true&theme=radical&count_private=true" />

@@ -11,9 +11,8 @@ I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers I
 
 - 👋 Hi, I’m @Bhanu_Sunka <br>
 - 👀 I’m interested in Web development.. <br>
-- 🌱 I’m currently learning Javascript 💫 <br>
+- 🌱 I’m currently learning Flutter 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
-- 😶‍🌫️ Full stack developer soon ✨.. <br>
 <br>
 
 ```Python
@@ -25,7 +24,7 @@ DE:         KDE Plasma
 Shell:      ZSH
 Device:     Lenovo IdeaPad S540-15IWLD
 Languages:  Java, Python, C, C++;
-Learning:   Javascript
+Learning:   Flutter
 Country:    India 🇮🇳
 ```
 

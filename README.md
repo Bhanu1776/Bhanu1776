@@ -2,7 +2,8 @@
 
 <p align=center><strong> Glad to see you here !! 🌠 </strong></p>
 
-![Profile views](https://gpvc.arturio.dev/Bhanu1776)
+
+![](https://komarev.com/ghpvc/?username=Bhanu1776&color=EE3F86)
 
 
 I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers Institute of Engineering, Mumbai_University. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel bulb... I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.

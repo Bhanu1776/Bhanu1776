@@ -15,7 +15,7 @@ I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers I
 - 🌱 I’m currently learning Flutter 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/17cJjidbkYIh2xR824TGyB48Q6rcRd0Xx/view?usp=sharing)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1joIL2D6grnZafAGl1MQjY0bB-4ft5PaV/view?usp=sharing)
 <br>
 <br>
 

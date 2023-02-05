@@ -15,7 +15,7 @@ I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers I
 - 🌱 I’m currently learning Flutter 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1joIL2D6grnZafAGl1MQjY0bB-4ft5PaV/view?usp=sharing)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1OqDLnBRk7stcvvpMzk5w_70oCDzuAG7-/view?usp=share_link)
 <br>
 <br>
 
@@ -27,7 +27,7 @@ OS:         KDE Neon (Linux)
 DE:         KDE Plasma 
 Shell:      ZSH
 Device:     Lenovo IdeaPad S540-15IWLD
-Languages:  Java, Python, C, C++;
+Languages:  Javascript, Typescript, Java, C++;
 Learning:   Flutter, Angular
 Country:    India 🇮🇳
 ```

@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Bhanu1776&color=EE3F86)
 
 
-I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers Institute of Engineering, Mumbai_University. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel bulb... I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+I'm Bhanu Sunka, A Final Year undergraduate student pursuing B.Tech from Xavier's Institute of Engineering, Mumbai University. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel bulb... I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 
 <img align="right" alt="Stats" height= "140" width= "450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu1776&layout=compact&theme=aura&repo=github-readme-stats" />
 
@@ -15,7 +15,7 @@ I'm Bhanu Sunka, A 3rd Year undergraduate student pursuing B.Tech from Xaviers I
 - 🌱 I’m currently learning NextJs 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1OqDLnBRk7stcvvpMzk5w_70oCDzuAG7-/view?usp=share_link)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1s3p1OBylZsK--fKqszLUpt_VUDp1ysYg/view?usp=sharing)
 <br>
 <br>
 

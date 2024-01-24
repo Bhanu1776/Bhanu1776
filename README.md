@@ -23,10 +23,9 @@ I'm Bhanu Sunka, A Final Year undergraduate student pursuing B.Tech from Xavier'
 Bhanu1776 
 -----------------
 
-OS:         KDE Neon (Linux)
-DE:         KDE Plasma 
+OS:         macOS Sonoma
 Shell:      ZSH
-Device:     Lenovo IdeaPad S540-15IWLD
+Device:     Apple Macbook M2
 Languages:  Javascript, Typescript, Java, C++;
 Learning:   NextJs
 Country:    India 🇮🇳

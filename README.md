@@ -15,7 +15,7 @@ I'm Bhanu Sunka, A Final Year undergraduate student pursuing B.Tech from Xavier'
 - 🌱 I’m currently learning NextJs 💫 <br>
 - 💞️ I’m looking to collaborate into Aosp <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1vsyHZprwcUDPY9i8jln9wLo1eioyH2Ff/view?usp=sharing)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1ZJUC8ifZ7PHJkGPrehd9CWldC38hJ2_n/view?usp=sharing)
 <br>
 <br>
 

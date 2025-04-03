@@ -6,16 +6,16 @@
 ![](https://komarev.com/ghpvc/?username=Bhanu1776&color=EE3F86)
 
 
-I'm Bhanu Sunka, A Final Year undergraduate student pursuing B.Tech from Xavier's Institute of Engineering, Mumbai University. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel bulb... I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+I'm Bhanu Sunka, Full Stack Developer at RoundTechSquare. A budding Developer who is obsessed with the idea of improving himself and wants a platform to grow and excel bulb... I love to explore new technologies and leverage them to solve real-life problems. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 
 <img align="right" alt="Stats" height= "140" width= "450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu1776&layout=compact&theme=aura&repo=github-readme-stats" />
 
 - 👋 Hi, I’m @Bhanu_Sunka <br>
 - 👀 I’m interested in Web development.. <br>
-- 🌱 I’m currently learning NextJs 💫 <br>
-- 💞️ I’m looking to collaborate into Aosp <br>
+- 🌱 I’m currently learning Backend Systems 💫 <br>
+- 💞️ I'm seeking opportunities to collaborate on impactful web solutions <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1ZJUC8ifZ7PHJkGPrehd9CWldC38hJ2_n/view?usp=sharing)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1UVy9QEw-VwkYaBk1n8v6MeSFuJ3aeIDA/view?usp=sharing)
 <br>
 <br>
 
@@ -23,11 +23,11 @@ I'm Bhanu Sunka, A Final Year undergraduate student pursuing B.Tech from Xavier'
 Bhanu1776 
 -----------------
 
-OS:         macOS Sonoma
+OS:         macOS Sequoia
 Shell:      ZSH
 Device:     Apple Macbook M2
 Languages:  Javascript, Typescript, Java, C++;
-Learning:   NextJs
+Learning:   Backend Systems
 Country:    India 🇮🇳
 ```
 

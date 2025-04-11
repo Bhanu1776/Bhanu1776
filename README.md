@@ -15,7 +15,7 @@ I'm Bhanu Sunka, Full Stack Developer at RoundTechSquare. A budding Developer wh
 - 🌱 I’m currently learning Backend Systems 💫 <br>
 - 💞️ I'm seeking opportunities to collaborate on impactful web solutions <br>
 - 🖥️ See my portfolio at [here](https://portfolio-bhanu1776.vercel.app/ "My Personal Portfolio")
-- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1UVy9QEw-VwkYaBk1n8v6MeSFuJ3aeIDA/view?usp=sharing)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/1VyhsuaiuKwXBb-uhTrkQ747q-CJ27Bbw/view?usp=sharing)
 <br>
 <br>
 
